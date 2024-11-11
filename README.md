@@ -21,5 +21,4 @@ Or fork it to modify the sample codes for your own study.
 
 If you found any error in the codes while you study, Feel free to submit pull requests or issues.
 
->_WARNING: Please note that these codes are just sample codes, so DO NOT use them on production._
 
